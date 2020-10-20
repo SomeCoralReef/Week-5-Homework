@@ -1,0 +1,16 @@
+paragraph 1: game description; what is this game about? why did you choose this topic?
+
+This game is about one day during summer when i was sitting at a beach in my home country. I was reminiscing about my time in high school and all the good memories i had.
+I felt like i wanted to choose this topic because it got me thinking about how much my life has changed since starting college and how that had changed who i am as a person.
+However, i also found myself thinking about all the lessons and things i learned about life as a human during those times. The triumphs and the failures.
+
+
+paragraph 2: your process; what was the initial idea and how did it evolve as you worked? 
+My process started out with a game that was just meant to be a main hub that went into 6 different flat games that represent a memory that i had. However, i found that it 
+made it more interesting to incorporate an actual beach. When i was sitting in the beach recalling these memories, i distinctly remember being distracted and taken out of it
+by the sound of waves and birds. so i decided to integrate them into a failure mechanic that if you get "distracted" by touching these birds or waves, then you would be 
+taken back to the beach and you have to work to recall the memories again from scratch. 
+
+paragraph 3: one specific development challenge and how you solved it (or why it was unsolvable)
+One developmental challenge was finding a way to integrate sounds into the failure mechanic. I wanted to hear the wave if you got touched by the wave or hear the bird
+if you touched the bird text. However, since i was doing a load scene method or reseting, i couldn't figure out how to make this work in time. 
