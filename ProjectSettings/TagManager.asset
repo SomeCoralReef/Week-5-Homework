@@ -30,6 +30,12 @@ TagManager:
   - X
   - Y
   - Z
+  - TriggerBox1
+  - TriggerBox2
+  - TriggerBox3
+  - TriggerBox4
+  - Wagon
+  - alc
   layers:
   - Default
   - TransparentFX

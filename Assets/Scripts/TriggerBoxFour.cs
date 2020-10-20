@@ -9,23 +9,20 @@ public class TriggerBoxFour : MonoBehaviour
   public bool letterInsert = false;
 
   
-     void OnTriggerEnter2D (Collider2D activator){
+ void OnTriggerEnter2D (Collider2D activator){
       if(activator.tag != "Player"){
-       letterInsert = true;
-       ObjectInFour = activator;
-       state.Letters.Add(ObjectInFour.tag); 
-        Debug.Log(ObjectInFour);
-      }
+        ObjectInFour = activator;
+        state.Letters.Add(ObjectInFour.tag);
+        }
       }
      
 
 
       void OnTriggerExit2D (Collider2D activator){
        if(activator.tag != "Player"){
-            Debug.Log ("Nullified");
-            state.Letters.Remove(ObjectInFour.tag);
+         if(state.Letters.Contains(activator.tag))
+            state.Letters.Remove(activator.tag);
             ObjectInFour = null;
-            letterInsert = false;
             }
       }
 }

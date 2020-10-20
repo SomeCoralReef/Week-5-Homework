@@ -9,23 +9,20 @@ public class TriggerBoxThree : MonoBehaviour
   public bool letterInsert = false;
 
   
-     void OnTriggerEnter2D (Collider2D activator){
+    void OnTriggerEnter2D (Collider2D activator){
       if(activator.tag != "Player"){
-       letterInsert = true;
-       ObjectInThree = activator;
-       state.Letters.Add(ObjectInThree.tag); 
-        Debug.Log(ObjectInThree);
-      }
+        ObjectInThree = activator;
+        state.Letters.Add(ObjectInThree.tag);
+        }
       }
      
 
 
       void OnTriggerExit2D (Collider2D activator){
        if(activator.tag != "Player"){
-            Debug.Log ("Nullified");
-            state.Letters.Remove(ObjectInThree.tag);
+         if(state.Letters.Contains(activator.tag))
+            state.Letters.Remove(activator.tag);
             ObjectInThree = null;
-            letterInsert = false;
             }
       }
 }

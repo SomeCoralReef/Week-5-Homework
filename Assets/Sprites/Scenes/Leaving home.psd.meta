@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 01e82c4e335209145a70439d26eb12cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4931856465126600186
+    second: Leaving home_0
+  - first:
+      213: 7916835010793712317
+    second: Leaving home_1
+  - first:
+      213: 6760044926187204165
+    second: Leaving home_2
+  - first:
+      213: -7895110667176072943
+    second: Leaving home_3
+  - first:
+      213: 3501757683422616737
+    second: Leaving home_4
+  - first:
+      213: 1324807932644170513
+    second: Leaving home_5
+  - first:
+      213: -212577395405692609
+    second: Leaving home_6
+  - first:
+      213: -83198823705123126
+    second: Leaving home_7
+  - first:
+      213: -5520906198007780139
+    second: Leaving home_8
+  - first:
+      213: -5533151207114550565
+    second: Leaving home_9
+  - first:
+      213: -7222697277488659244
+    second: Leaving home_10
+  - first:
+      213: -497711335014523702
+    second: Leaving home_11
+  - first:
+      213: -5853091169760426166
+    second: Leaving home_12
+  - first:
+      213: 2814009003996828428
+    second: Leaving home_13
+  - first:
+      213: 3784660984520755933
+    second: Leaving home_14
+  - first:
+      213: 2532048854422195319
+    second: Leaving home_15
+  - first:
+      213: 1634810943520255740
+    second: Leaving home_16
+  - first:
+      213: 7807285850344046755
+    second: Leaving home_17
+  - first:
+      213: 3552841710177280240
+    second: Leaving home_18
+  - first:
+      213: -8307774494265380387
+    second: Leaving home_19
+  - first:
+      213: -3572226824323938549
+    second: Leaving home_20
+  - first:
+      213: 9008456730383391939
+    second: Leaving home_21
+  - first:
+      213: -3603038418271652567
+    second: Leaving home_22
+  - first:
+      213: -5848082957496662383
+    second: Leaving home_23
+  - first:
+      213: -8287628356054937192
+    second: Leaving home_24
+  - first:
+      213: -1687804538848238163
+    second: Leaving home_25
+  - first:
+      213: 5128723422882212567
+    second: Leaving home_26
+  - first:
+      213: -3065823399758686440
+    second: Leaving home_27
+  - first:
+      213: -5206866178713084708
+    second: Leaving home_28
+  - first:
+      213: -1695342105487033648
+    second: Leaving home_29
+  - first:
+      213: 8282655893613743419
+    second: Leaving home_30
+  - first:
+      213: 6866834156920911452
+    second: Leaving home_31
+  - first:
+      213: 7665458877507157750
+    second: Leaving home_32
+  - first:
+      213: 32867467920233375
+    second: Leaving home_33
+  - first:
+      213: 4225934025380623225
+    second: Leaving home_34
+  - first:
+      213: 2967512941232845163
+    second: Leaving home_35
+  - first:
+      213: 5955169478578362158
+    second: Leaving home_36
+  - first:
+      213: 4500158122292977898
+    second: Leaving home_37
+  - first:
+      213: -8709784771601302208
+    second: Leaving home_38
+  - first:
+      213: 8976228045369208635
+    second: Leaving home_39
+  - first:
+      213: -4700999794636246152
+    second: Leaving home_40
+  - first:
+      213: -7265004864803200274
+    second: Leaving home_41
+  - first:
+      213: -5756070628376084862
+    second: Leaving home_42
+  - first:
+      213: 1209049085055404594
+    second: Leaving home_43
+  - first:
+      213: 6938451879648250198
+    second: Leaving home_44
+  - first:
+      213: -4191260670345080851
+    second: Leaving home_45
+  - first:
+      213: -5658730836612757353
+    second: Leaving home_46
+  - first:
+      213: 1286895811375059470
+    second: Leaving home_47
+  - first:
+      213: -9030135170976995551
+    second: Leaving home_48
+  - first:
+      213: -3333836611972165655
+    second: Leaving home_49
+  - first:
+      213: 3641684820101908463
+    second: Leaving home_50
+  - first:
+      213: 1348288989292182841
+    second: Leaving home_51
+  - first:
+      213: -8246320405009797615
+    second: Leaving home_52
+  - first:
+      213: 9145312707053084977
+    second: Leaving home_53
+  - first:
+      213: 935395673720793190
+    second: Leaving home_54
+  - first:
+      213: -8121190962624122818
+    second: Leaving home_55
+  - first:
+      213: -7557349791890673873
+    second: Leaving home_56
+  - first:
+      213: -3595833572738154706
+    second: Leaving home_57
+  - first:
+      213: 5351035738083641826
+    second: Leaving home_58
+  - first:
+      213: 5302209204873230671
+    second: Leaving home_59
+  - first:
+      213: 1558960655570293888
+    second: Leaving home_60
+  - first:
+      213: 7709361073789163725
+    second: Leaving home_61
+  - first:
+      213: 64527458797372752
+    second: Leaving home_62
+  - first:
+      213: -4033743079551833277
+    second: Leaving home_63
+  - first:
+      213: -3774218712115184711
+    second: Leaving home_64
+  - first:
+      213: -4377744652249018901
+    second: Leaving home_65
+  - first:
+      213: -4677465691421867686
+    second: Leaving home_66
+  - first:
+      213: 2391879891952775422
+    second: Leaving home_67
+  - first:
+      213: -8351361398852735638
+    second: Leaving home_68
+  - first:
+      213: 6041599822109816730
+    second: Leaving home_69
+  - first:
+      213: -2622037153836119521
+    second: Leaving home_70
+  - first:
+      213: -6740595871189862603
+    second: Leaving home_71
+  - first:
+      213: 371052701907968648
+    second: Leaving home_72
+  - first:
+      213: -2170497159738476007
+    second: Leaving home_73
+  - first:
+      213: 5876270704181517829
+    second: Leaving home_74
+  - first:
+      213: -849368267227439665
+    second: Leaving home_75
+  - first:
+      213: -8375367636667039353
+    second: Leaving home_76
+  - first:
+      213: -1524102354616324215
+    second: Leaving home_77
+  - first:
+      213: -5868278624819796524
+    second: Leaving home_78
+  - first:
+      213: -3938686678617354048
+    second: Leaving home_79
+  - first:
+      213: -8370089246711841811
+    second: Leaving home_80
+  - first:
+      213: 8436542706450518500
+    second: Leaving home_81
+  - first:
+      213: 1225981146264470474
+    second: Leaving home_82
+  - first:
+      213: 6992814651030334670
+    second: Leaving home_83
+  - first:
+      213: -8853854245821647572
+    second: Leaving home_84
+  - first:
+      213: 1476286139725790159
+    second: Leaving home_85
+  - first:
+      213: 8740804633509183058
+    second: Leaving home_86
+  - first:
+      213: -3047608233861896167
+    second: Leaving home_87
+  - first:
+      213: 759136613809756066
+    second: Leaving home_88
+  - first:
+      213: 1625717419147336726
+    second: Leaving home_89
+  - first:
+      213: -7570961605036348622
+    second: Leaving home_90
+  - first:
+      213: -2862251310270490244
+    second: Leaving home_91
+  - first:
+      213: -6649726366544602316
+    second: Leaving home_92
+  - first:
+      213: -9108167406649197533
+    second: Leaving home_93
+  - first:
+      213: 6846886275034756517
+    second: Leaving home_94
+  - first:
+      213: 2454822667368061011
+    second: Leaving home_95
+  - first:
+      213: 8753312541121053263
+    second: Leaving home_96
+  - first:
+      213: 158499594839781010
+    second: Leaving home_97
+  - first:
+      213: -4721968076611098739
+    second: Leaving home_98
+  - first:
+      213: -6060694192661043845
+    second: Leaving home_99
+  - first:
+      213: -2006222105377383794
+    second: Leaving home_100
+  - first:
+      213: 7223544939194160191
+    second: Leaving home_101
+  - first:
+      213: -7752122869185483523
+    second: Leaving home_102
+  - first:
+      213: 8996511318952161917
+    second: Leaving home_103
+  - first:
+      213: 7482013225125603843
+    second: Leaving home_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leaving home_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afda51f2359717440800000000000000
+      internalID: 4931856465126600186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2cb34f7f3edd60800000000000000
+      internalID: 7916835010793712317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee11b4b0180dd50800000000000000
+      internalID: 6760044926187204165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a294adaeee6290800000000000000
+      internalID: -7895110667176072943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac56e95f0eb89030800000000000000
+      internalID: 3501757683422616737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b10ecabc9a26210800000000000000
+      internalID: 1324807932644170513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31e0933cf5cc0df0800000000000000
+      internalID: -212577395405692609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac663535c1b68def0800000000000000
+      internalID: -83198823705123126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc6e7d501dc163b0800000000000000
+      internalID: -5520906198007780139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaving home_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d9630b4c4633b0800000000000000
+      internalID: -5533151207114550565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
